@@ -1,3 +1,4 @@
 [submodule "python_samples"]
 	path = python_samples
 	url = https://github.com/sree1026/python_samples.git
+ branch = master
