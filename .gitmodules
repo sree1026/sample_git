@@ -2,3 +2,6 @@
 	path = python_samples
 	url = https://github.com/sree1026/python_samples.git
 	branch = branch1
+[submodule "tascomm"]
+	path = tascomm
+	url = https://github.com/sree1026/tascomm.git
